@@ -1,0 +1,935 @@
+fileFormatVersion: 2
+guid: 4e4299850235eb54b94d499196746e97
+timeCreated: 1440041537
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: restodasanimacoes_0
+    21300002: restodasanimacoes_1
+    21300004: restodasanimacoes_2
+    21300006: restodasanimacoes_3
+    21300008: restodasanimacoes_4
+    21300010: restodasanimacoes_5
+    21300012: restodasanimacoes_6
+    21300014: restodasanimacoes_7
+    21300016: restodasanimacoes_8
+    21300018: restodasanimacoes_9
+    21300020: restodasanimacoes_10
+    21300022: restodasanimacoes_11
+    21300024: restodasanimacoes_12
+    21300026: restodasanimacoes_13
+    21300028: restodasanimacoes_14
+    21300030: restodasanimacoes_15
+    21300032: restodasanimacoes_16
+    21300034: restodasanimacoes_17
+    21300036: restodasanimacoes_18
+    21300038: restodasanimacoes_19
+    21300040: restodasanimacoes_20
+    21300042: restodasanimacoes_21
+    21300044: restodasanimacoes_22
+    21300046: restodasanimacoes_23
+    21300048: restodasanimacoes_24
+    21300050: restodasanimacoes_25
+    21300052: restodasanimacoes_26
+    21300054: restodasanimacoes_27
+    21300056: restodasanimacoes_28
+    21300058: restodasanimacoes_29
+    21300060: restodasanimacoes_30
+    21300062: restodasanimacoes_31
+    21300064: restodasanimacoes_32
+    21300066: restodasanimacoes_33
+    21300068: restodasanimacoes_34
+    21300070: restodasanimacoes_35
+    21300072: restodasanimacoes_36
+    21300074: restodasanimacoes_37
+    21300076: restodasanimacoes_38
+    21300078: restodasanimacoes_39
+    21300080: restodasanimacoes_40
+    21300082: restodasanimacoes_41
+    21300084: restodasanimacoes_42
+    21300086: restodasanimacoes_43
+    21300088: restodasanimacoes_44
+    21300090: restodasanimacoes_45
+    21300092: restodasanimacoes_46
+    21300094: restodasanimacoes_47
+    21300096: restodasanimacoes_48
+    21300098: restodasanimacoes_49
+    21300100: restodasanimacoes_50
+    21300102: restodasanimacoes_51
+    21300104: restodasanimacoes_52
+    21300106: restodasanimacoes_53
+    21300108: restodasanimacoes_54
+    21300110: restodasanimacoes_55
+    21300112: restodasanimacoes_56
+    21300114: restodasanimacoes_57
+    21300116: restodasanimacoes_58
+    21300118: restodasanimacoes_59
+    21300120: restodasanimacoes_60
+    21300122: restodasanimacoes_61
+    21300124: restodasanimacoes_62
+    21300126: restodasanimacoes_63
+    21300128: restodasanimacoes_64
+    21300130: restodasanimacoes_65
+    21300132: restodasanimacoes_66
+    21300134: restodasanimacoes_67
+    21300136: restodasanimacoes_68
+    21300138: restodasanimacoes_69
+    21300140: restodasanimacoes_70
+    21300142: restodasanimacoes_71
+    21300144: restodasanimacoes_72
+    21300146: restodasanimacoes_73
+    21300148: restodasanimacoes_74
+    21300150: restodasanimacoes_75
+    21300152: restodasanimacoes_76
+    21300154: restodasanimacoes_77
+    21300156: restodasanimacoes_78
+    21300158: restodasanimacoes_79
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: restodasanimacoes_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 720
+        width: 144
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 721
+        width: 147
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_2
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 720
+        width: 145
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_3
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 721
+        width: 147
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_4
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 721
+        width: 147
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_5
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 715
+        width: 144
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_6
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 715
+        width: 147
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_7
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 715
+        width: 145
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_8
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 715
+        width: 147
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_9
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 715
+        width: 147
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 619
+        width: 144
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_11
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 620
+        width: 147
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_12
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 619
+        width: 135
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_13
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 620
+        width: 147
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_14
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 620
+        width: 147
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_15
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 614
+        width: 144
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_16
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 614
+        width: 147
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_17
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 614
+        width: 139
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_18
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 614
+        width: 147
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_19
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 614
+        width: 147
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 524
+        width: 131
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 524
+        width: 133
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_22
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 525
+        width: 128
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_23
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 524
+        width: 133
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_24
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 524
+        width: 133
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_25
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 518
+        width: 131
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_26
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 517
+        width: 133
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_27
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 518
+        width: 128
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_28
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 517
+        width: 133
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_29
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 517
+        width: 133
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 422
+        width: 131
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 422
+        width: 133
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_32
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 423
+        width: 128
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_33
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 422
+        width: 133
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_34
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 422
+        width: 133
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_35
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 416
+        width: 131
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_36
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 415
+        width: 133
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_37
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 416
+        width: 128
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_38
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 415
+        width: 133
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_39
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 415
+        width: 133
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_40
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 318
+        width: 108
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_41
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 321
+        width: 110
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_42
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 321
+        width: 109
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 321
+        width: 110
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_44
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 321
+        width: 110
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_45
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 312
+        width: 123
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_46
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 310
+        width: 120
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_47
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 311
+        width: 113
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_48
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 311
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_49
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 311
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 217
+        width: 108
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_51
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 220
+        width: 110
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_52
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 220
+        width: 109
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_53
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 220
+        width: 110
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_54
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 220
+        width: 110
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_55
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 211
+        width: 123
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_56
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 209
+        width: 120
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_57
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 215
+        width: 109
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_58
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 217
+        width: 110
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_59
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 209
+        width: 120
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_60
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 121
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_61
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 121
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_62
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 121
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_63
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 121
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_64
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 121
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_65
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 116
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_66
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 118
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_67
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 115
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_68
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 116
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_69
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 116
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_70
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 19
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_71
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 19
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_72
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 19
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_73
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 19
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_74
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 19
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_75
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 16
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_76
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 14
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_77
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 13
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_78
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 14
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restodasanimacoes_79
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 14
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

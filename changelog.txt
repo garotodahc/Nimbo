@@ -1,0 +1,9 @@
+v 0.13.15.8 11/04/2016 22:09
+Corrigido Cenário 3;
+Corrigido choque entre prédio e poderes.
+
+TODO: 
+1- Testar aumento de velocidade;
+2- Corrigir tutorial;
+3- Alterar música do nível 2 (igual ao nível 1);
+4- Corrigir animações (setar mudanças de estado para eventos especificos);

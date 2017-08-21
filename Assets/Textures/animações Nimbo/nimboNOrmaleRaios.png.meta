@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 37438f48e365c5f45a17c24ba25b218f
+timeCreated: 1440041494
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nimboNOrmaleRaios_0
+    21300002: nimboNOrmaleRaios_1
+    21300004: nimboNOrmaleRaios_2
+    21300006: nimboNOrmaleRaios_3
+    21300008: nimboNOrmaleRaios_4
+    21300010: nimboNOrmaleRaios_5
+    21300012: nimboNOrmaleRaios_6
+    21300014: nimboNOrmaleRaios_7
+    21300016: nimboNOrmaleRaios_8
+    21300018: nimboNOrmaleRaios_9
+    21300020: nimboNOrmaleRaios_10
+    21300022: nimboNOrmaleRaios_11
+    21300024: nimboNOrmaleRaios_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: nimboNOrmaleRaios_0
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 100
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nimboNOrmaleRaios_1
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 100
+        width: 38
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nimboNOrmaleRaios_2
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 0
+        width: 164
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nimboNOrmaleRaios_3
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 100
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nimboNOrmaleRaios_4
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 0
+        width: 164
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nimboNOrmaleRaios_5
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 0
+        width: 164
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nimboNOrmaleRaios_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8
+        width: 159
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nimboNOrmaleRaios_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 5
+        width: 164
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nimboNOrmaleRaios_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 5
+        width: 157
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nimboNOrmaleRaios_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 5
+        width: 164
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nimboNOrmaleRaios_10
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 5
+        width: 164
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nimboNOrmaleRaios_11
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 0
+        width: 159
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nimboNOrmaleRaios_12
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 0
+        width: 157
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
